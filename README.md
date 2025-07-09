@@ -1,1 +1,1 @@
-�� **[PaperRAG](https://github.com/yourusername/PaperRAG)** - A modular RAG system for 200+ LLM agent papers, built with ChromaDB + OpenAI, optimized with H100 GPU cloud processing for academic research Q&A
+**[PaperRAG](https://github.com/daukadolt/PaperRAG)** - A modular RAG system for 200+ LLM agent papers, built with ChromaDB + OpenAI, optimized with H100 GPU cloud processing for academic research Q&A
